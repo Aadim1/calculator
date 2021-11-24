@@ -8,4 +8,4 @@ Picture:
 ![Getting Started](./calculator.png)
 
 
-Live demo: aadim1.github.io/calculator
+[Live Demo] (https://www.genome.gov/)aadim1.github.io/calculator
